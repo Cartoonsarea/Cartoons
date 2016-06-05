@@ -1,5 +1,8 @@
 # Cartoons
 Videos
+
+http://singamda.co.in/Cartoonsarea.png
+
 <div class="body"><div class="atozalign"><center><table width="600">
   
   <tr>
