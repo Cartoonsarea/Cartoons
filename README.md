@@ -1,6 +1,6 @@
 # Cartoons
 Videos
-<img src="http://singamda.co.in/Cartoonsarea.png" alt="+" width="1240px" height="650px"/>
+<img src="http://singamda.co.in/Cartoonsarea.png" alt="+" width="1240px" height="350px"/>
 
 <div class="body"><div class="atozalign"><center><table width="600">
   
