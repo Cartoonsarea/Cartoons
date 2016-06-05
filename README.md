@@ -33,17 +33,6 @@ Videos
 </table></center></div>
 
 
-<div class="atozalign"><center><table width="800" bgcolor="#FFFFFF">
- <tr>
- <td class="Box"><div class="recent"><b>Recent Releases</b></div></td><td width="400" class="Box"><div class="recent"><b>New Series</b></div></td></tr>
-<tr><td width="400" class="Box"><div class="boxdiv"><ul>
-            <li>:forumlist: f=111541786, l=10:: <div class="recentone"> %text%</div> ::<div class="None"></div> :/forumlist:</li>
-          </ul></div></td><td class="Box"><div class="boxdiv"><ul><li>:forumlist: f=111541787, l=10:: <div class="recentone"> %text%</div> ::<div class="None"></div> :/forumlist:</li></ul></div></td></tr>
-</table></center></div>
-
-
-
-
 
 
 
