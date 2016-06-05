@@ -36,16 +36,7 @@ Videos
 
 
 
-<style>
-table, th, td {
-   
-    border-collapse: collapse;
 
-}
-th, td {
-    padding: 2px;
-   
-}
 </style>
 
 
