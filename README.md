@@ -53,10 +53,7 @@
 <td width="16%">
 <a href="https://www.cartoonsarea.xyz/Japanese-Dubbed-Videos/A-Subbed-Series/Ajin-Demi-Human-Subbed-Videos/" rel="bookmark" title="Ajin: Demi-Human">
 <img src="https://www.cartoonsarea.xyz/USER-DATA/Images/Japanese/A/Ajin%20Demi%20Human.jpg" alt="+" width="120px" height="168px"/></a><td class="none">  <b>
-<a href="http://cartoonsarea.com/site_ajin.xhtml" rel="bookmark" title="Ajin: Demi-Human">Ajin: Demi-Human</a></b>:br::br:
-
-:color-black:Language: :/color::color-red:Japanese:/color::br:
-:color-black:SubTitle: :/color: :color-red:English:/color::br::br:
+<a href="http://cartoonsarea.com/site_ajin.xhtml" rel="bookmark" title="Ajin: Demi-Human">Ajin: Demi-Human</a></b>
 
 <b><a href="http://www.mp4upload.com/lbpor71xxd2j" rel="bookmark" title="Ajin: Demi-Human">Episode 13</a></b>:br::br:<b>:color-black:Status: :/color::color-red:On Going:/color: :br: Released: 2016</b></td></td>
 
