@@ -51,8 +51,8 @@
 
 <tr class="Cartoontd" class="Cartoon">
 <td width="16%">
-<a href="http://cartoonsarea.com/site_ajin.xhtml" rel="bookmark" title="Ajin: Demi-Human">
-<img src="/img/701047/701047029_2f080a2859.jpg" alt="+" width="120px" height="168px"/></a>:br:<td class="none">  <b>
+<a href="https://www.cartoonsarea.xyz/Japanese-Dubbed-Videos/A-Subbed-Series/Ajin-Demi-Human-Subbed-Videos/" rel="bookmark" title="Ajin: Demi-Human">
+<img src="https://www.cartoonsarea.xyz/USER-DATA/Images/Japanese/A/Ajin%20Demi%20Human.jpg" alt="+" width="120px" height="168px"/></a>:br:<td class="none">  <b>
 <a href="http://cartoonsarea.com/site_ajin.xhtml" rel="bookmark" title="Ajin: Demi-Human">Ajin: Demi-Human</a></b>:br::br:
 
 :color-black:Language: :/color::color-red:Japanese:/color::br:
