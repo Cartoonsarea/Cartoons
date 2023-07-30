@@ -1,4 +1,3 @@
-# Cartoons
 <img src="http://www.cartoonsarea.xyz/site_assets/images/logo.png" alt="+" width="1240px" height="310px"/>
 
 <div class="body"><div class="atozalign"><center><table width="600">
